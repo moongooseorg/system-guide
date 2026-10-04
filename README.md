@@ -9,3 +9,6 @@ The next step is to setup open bao.  This is the secrets management platform.  F
 The next step is to setup your database.  Follow the instructions at infra-mongo
 
 The next step is to setup your reverse proxy.  Follow the instructions at infra-traefik
+
+### To add a new UI
+In addition to the repository you'll also need to add an entry into the dynamic folder in infra-traefik
